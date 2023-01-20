@@ -93,4 +93,8 @@ def main():
     print(start_training(char_name, char_class))
 
 
+<<<<<<< HEAD
 main()
+=======
+main()
+>>>>>>> 89af1ae05053b17cceca2121a3d039834a066491
